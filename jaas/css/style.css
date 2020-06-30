@@ -1,0 +1,9 @@
+img {
+    max-width: 100%;
+}
+
+body {
+    background-color: #1e4526;
+    display: flex;
+    justify-content: center;
+}
